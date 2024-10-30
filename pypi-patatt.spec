@@ -7,7 +7,7 @@
 #
 Name     : pypi-patatt
 Version  : 0.6.3
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/fa/62/8adfadbc130cd33696e06c9c2f3ea36252c2e3dd1387cfdea0bc3aa10172/patatt-0.6.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fa/62/8adfadbc130cd33696e06c9c2f3ea36252c2e3dd1387cfdea0bc3aa10172/patatt-0.6.3.tar.gz
 Summary  : A simple library to add cryptographic attestation to patches sent via email
